@@ -1,0 +1,11 @@
+Create a modern web application for bidirectional data transfer between ClickHouse and flat files. The application should have a clean interface and support both CSV and TSV formats.
+
+Design a scalable backend in Go that can handle large datasets efficiently with proper error handling and connection pooling. Include JWT authentication for ClickHouse connections.
+
+Implement a React frontend with Material-UI components that provides a multi-step wizard for data transfer, real-time progress tracking, and data preview functionality.
+
+Set up Docker containers for both backend and frontend, but also make it work with local ClickHouse installation. Include proper environment configuration and error handling.
+
+Optimize data transfer with batch processing and implement proper logging. Add a test script to verify all functionality.
+
+Create comprehensive documentation including setup instructions, API specifications, and usage examples. 
